@@ -29,7 +29,8 @@ var APP_DATA = {
           "yaw": 3.1297753878561334,
           "pitch": 0.09546609319908761,
           "rotation": 0,
-          "target": "1-takashimaya"
+          "target": "1-takashimaya",
+          "label": "Takashimaya Saigon"
         }
       ],
       "infoHotspots": [
@@ -70,14 +71,15 @@ var APP_DATA = {
           "yaw": 0.17285861012469184,
           "pitch": 0.13918182644625254,
           "rotation": 0,
-          "target": "2-ph-i-b-nguyn-hu"
+          "target": "2-ph-i-b-nguyn-hu",
+          "label": "Nguyen Hue Walking Street"
         }
       ],
       "infoHotspots": [
         {
           "yaw": 0.7280209505856483,
           "pitch": -0.26298800842140757,
-          "title": "Takashimaya - Shopping center",
+          "title": "Takashimaya Saigon",
           "text": "Location: A luxury shopping hub on Le Loi Street. Smart Features: AI-integrated retail experiences and smart indoor navigation. Services: International brands with cashless payment support."
         }
       ]
@@ -111,14 +113,15 @@ var APP_DATA = {
           "yaw": -1.4967683765984212,
           "pitch": 0.10976773129573303,
           "rotation": 0,
-          "target": "3-nha-hat"
+          "target": "3-nha-hat",
+          "label": "Saigon Opera House"
         }
       ],
       "infoHotspots": [
         {
           "yaw": -2.0578435308963563,
           "pitch": 0.12901433049032818,
-          "title": "Nguyen Hue Street Walk",
+          "title": "Nguyen Hue Walking Street",
           "text": " Culture: The city’s main square for festivals and events. Smart Info: Free public Wi-Fi and AI-powered security cameras. Events: Scan QR codes for real-time fountain show schedules."
         }
       ]
@@ -152,14 +155,15 @@ var APP_DATA = {
           "yaw": -0.8962395046325007,
           "pitch": 0.06823367346247267,
           "rotation": 0,
-          "target": "4-cng-truong-lam-son"
+          "target": "4-cng-truong-lam-son",
+          "label": "Lam Son Square"
         }
       ],
       "infoHotspots": [
         {
           "yaw": -1.4672663191558613,
           "pitch": -0.4306618995453455,
-          "title": "Opera House HCM",
+          "title": "Saigon Opera House",
           "text": "Architecture: Classic French Flamboyant style built in 1900. Smart Info: Book show tickets instantly via QR codes. Transport: Direct access to Metro Station Opera House."
         }
       ]
@@ -193,7 +197,8 @@ var APP_DATA = {
           "yaw": -0.14171948922403388,
           "pitch": 0.1212189351662829,
           "rotation": 0,
-          "target": "5-70-hai-ba-trung"
+          "target": "5-70-hai-ba-trung",
+          "label": "70 Hai Ba Trung Street"
         }
       ],
       "infoHotspots": []
@@ -227,7 +232,8 @@ var APP_DATA = {
           "yaw": -0.024216645992073182,
           "pitch": 0.23662237199451397,
           "rotation": 0,
-          "target": "6-jw-marriot"
+          "target": "6-jw-marriot",
+          "label": "JW Marriott Saigon"
         }
       ],
       "infoHotspots": []
@@ -261,7 +267,8 @@ var APP_DATA = {
           "yaw": -1.9046221592057329,
           "pitch": 0.14950425292214398,
           "rotation": 0,
-          "target": "7-nh-th"
+          "target": "7-nh-th",
+          "label": "Notre Dame Cathedral"
         }
       ],
       "infoHotspots": []
@@ -295,14 +302,15 @@ var APP_DATA = {
           "yaw": 2.02941770460901,
           "pitch": 0.16179142189616513,
           "rotation": 0,
-          "target": "8-buu-dien"
+          "target": "8-buu-dien",
+          "label": "Central Post Office"
         }
       ],
       "infoHotspots": [
         {
           "yaw": 1.5480455083859237,
           "pitch": -0.3530042023320643,
-          "title": "Notre-Dame Cathedral Basilica of Saigon",
+          "title": "Notre Dame Cathedral",
           "text": "Architecture: A neo-Romanesque masterpiece built between 1877 and 1880. Smart Feature: Integrated QR codes for historical restoration updates and digital heritage tours. Travel: A top spiritual and cultural landmark in the heart of Ho Chi Minh City."
         }
       ]
@@ -336,7 +344,7 @@ var APP_DATA = {
         {
           "yaw": 1.9875345263817783,
           "pitch": -0.2956440303572023,
-          "title": "Saigon Central Post Office",
+          "title": "Central Post Office",
           "text": "Architecture: Designed by Gustave Eiffel with a blend of Gothic and Renaissance styles. Smart Feature: Digital postal services and real-time package tracking via QR codes. Travel: One of the oldest and most beautiful colonial buildings in Ho Chi Minh City"
         }
       ]

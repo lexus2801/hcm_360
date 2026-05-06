@@ -366,7 +366,12 @@
     var tooltip = document.createElement('div');
     tooltip.classList.add('hotspot-tooltip');
     tooltip.classList.add('link-hotspot-tooltip');
-    tooltip.innerHTML = findSceneDataById(hotspot.target).name;
+    var targetScene = findSceneDataById(hotspot.target);
+    var linkLabel = targetScene ? targetScene.name : '';
+    if (typeof hotspot.label === 'string' && hotspot.label !== '') {
+      linkLabel = hotspot.label;
+    }
+    tooltip.innerHTML = sanitize(linkLabel);
 
     wrapper.appendChild(icon);
     wrapper.appendChild(tooltip);
