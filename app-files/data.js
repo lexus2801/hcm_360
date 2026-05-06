@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-street-view-360",
-      "name": "Street View 360",
+      "name": "Ben Thanh Market",
       "levels": [
         {
           "tileSize": 256,
@@ -43,7 +43,7 @@ var APP_DATA = {
     },
     {
       "id": "1-takashimaya",
-      "name": "takashimaya",
+      "name": "Takashimaya Saigon",
       "levels": [
         {
           "tileSize": 256,
@@ -84,7 +84,7 @@ var APP_DATA = {
     },
     {
       "id": "2-ph-i-b-nguyn-hu",
-      "name": "Phố đi bộ nguyễn huệ",
+      "name": "Nguyen Hue Walking Street",
       "levels": [
         {
           "tileSize": 256,
@@ -125,7 +125,7 @@ var APP_DATA = {
     },
     {
       "id": "3-nha-hat",
-      "name": "Nha hat",
+      "name": "Saigon Opera House",
       "levels": [
         {
           "tileSize": 256,
@@ -166,7 +166,7 @@ var APP_DATA = {
     },
     {
       "id": "4-cng-truong-lam-son",
-      "name": "công truong lam son",
+      "name": "Lam Son Square",
       "levels": [
         {
           "tileSize": 256,
@@ -200,7 +200,7 @@ var APP_DATA = {
     },
     {
       "id": "5-70-hai-ba-trung",
-      "name": "70 hai ba trung",
+      "name": "70 Hai Ba Trung Street",
       "levels": [
         {
           "tileSize": 256,
@@ -234,7 +234,7 @@ var APP_DATA = {
     },
     {
       "id": "6-jw-marriot",
-      "name": "JW marriot",
+      "name": "JW Marriott Saigon",
       "levels": [
         {
           "tileSize": 256,
@@ -268,7 +268,7 @@ var APP_DATA = {
     },
     {
       "id": "7-nh-th",
-      "name": "nhà thờ",
+      "name": "Notre Dame Cathedral",
       "levels": [
         {
           "tileSize": 256,
@@ -309,7 +309,7 @@ var APP_DATA = {
     },
     {
       "id": "8-buu-dien",
-      "name": "buu dien",
+      "name": "Central Post Office",
       "levels": [
         {
           "tileSize": 256,
@@ -342,7 +342,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Ho Chi Minh City 360 Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
